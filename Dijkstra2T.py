@@ -76,7 +76,7 @@ def dijkstra(do_thi, dinh_nguon, dinh_dich):
         if x == math.inf:
             print(f'Không có đường đi từ đỉnh {Dict[str(dinh_nguon)]} đến đỉnh {Dict[str(dinh_dich)]}')
             return
-        #End if
+        #End if 
 
         ds_dinh_cay_ngan_nhat[x] = True
         if x == dinh_dich:
