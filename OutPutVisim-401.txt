@@ -1,15 +1,1 @@
-bố  thầy
-bố  cha
-bố  mẹ
-bố  ông
-bố  bà
-thầy  cha
-thầy  mẹ
-thầy  ông
-thầy  bà
-cha  mẹ
-cha  ông
-cha  bà
-mẹ  ông
-mẹ  bà
-ông  bà
+Test data
